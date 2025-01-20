@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushmaan2013
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning and learnt HTML and CSS
+- 🌱 I’m currently learning python and learnt HTML and CSS
 - 💞️ I’m looking to collaborate on python
 - 📫 No need to reach me I have an email you can reach me through my Github account (I do not recommend)
 - 😄 Pronouns: He
